@@ -4,15 +4,17 @@ html, body
 }
 
 /*BIG map setting*/
-/*
+
 #map 
 {
 	width: 3500px; 
 	height: 5000px; 
 }
-*/
+
 /*Small map setting for DEVELOPMENT*/
+/*
 #map 
 {
-	width: 100%
+	height: 100%;
 }
+*/
